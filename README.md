@@ -1,7 +1,7 @@
 <!-- List Of Websites-->
 [linkedin]: https://www.linkedin.com/in/jordan-pryor/
 [gitlab]: https://gitlab.com/the-fifth-circle
-[twitter]: https://twitter.com/FifthCircleGames
+[twitter]: https://twitter.com/FifthCircleGame
 [reddit]: https://www.reddit.com/user/FifthCircleStudios
 [github]: https://github.com/fifthcirclestudios
 [outlook]: mailto:contact@fifthcirclestudios.com
