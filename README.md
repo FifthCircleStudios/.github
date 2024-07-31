@@ -20,7 +20,7 @@ We are Fifth Circle Studios, an indie game development studio focused on creatin
 
 We love crafting unique games that captivate and challenge players. Currently, we are working on several exciting projects that we can't wait to share with you.
 
-<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHg0cDNjeWljNGR6cjQ3ZHZ6d3VieDM2Znh5NnF6NzFycmxzbXA2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ejm8tkFonl8o8/giphy.gif" height="200" />
+<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJhNmZzaDJzeHEzdXUyeDExMDJpbXZleWFlanU2ODR2cDhoYmN5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lopx9eUi34rbq/giphy.gif" height="200" />
 
 **Talking about Our Studio:**
 
