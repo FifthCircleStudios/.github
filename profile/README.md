@@ -24,7 +24,7 @@ We love crafting unique games that captivate and challenge players. Currently, w
 
 **Talking about Our Studio:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; We’re currently working on something exciting. Its called "Starlight", More info to come!
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; We’re currently working on something exciting. Its currently know as "Project Osiris", More info to come!
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Our team is composed of passionate developers, artists, and designers.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Feel free to ask us anything, we’re here to help and share.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach us: [contact@fifthcirclestudios.com][outlook]
