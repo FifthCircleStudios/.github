@@ -7,7 +7,7 @@
 [outlook]: mailto:contact@fifthcirclestudios.com
 [paypal]: https://paypal.me/fifthcirclestudios
 
-### <samp>&gt; Hi there, welcome to <a href="https://twitter.com/FifthCircleGame" target="_blank">Studio Prisms</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, welcome to <a href="https://twitter.com/FifthCircleGame" target="_blank">Studio Prism</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![Gitlab Badge](https://img.shields.io/badge/gitlab-orange?style=flat-square&logo=gitlab&logoColor=white)][gitlab]
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
