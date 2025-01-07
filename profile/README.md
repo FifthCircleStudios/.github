@@ -7,7 +7,7 @@
 [outlook]: mailto:contact@fifthcirclestudios.com
 [paypal]: https://paypal.me/fifthcirclestudios
 
-### <samp>&gt; Hi there, welcome to <a href="https://twitter.com/FifthCircleGame" target="_blank">Fifth Circle Studios</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, welcome to <a href="https://twitter.com/FifthCircleGame" target="_blank">Studio Prisms</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![Gitlab Badge](https://img.shields.io/badge/gitlab-orange?style=flat-square&logo=gitlab&logoColor=white)][gitlab]
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
@@ -16,7 +16,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=fifth-circle-studios)
 
-We are Fifth Circle Studios, an indie game development studio focused on creating immersive and innovative gaming experiences.
+We are Studio Prism, an indie game development studio focused on creating immersive and innovative gaming experiences.
 
 We love crafting unique games that captivate and challenge players. Currently, we are working on several exciting projects that we can't wait to share with you.
 
@@ -24,7 +24,7 @@ We love crafting unique games that captivate and challenge players. Currently, w
 
 **Talking about Our Studio:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; We’re currently working on something exciting. Its currently know as "Project Osiris", More info to come!
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; We’re currently working on something exciting. More info to come!
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Our team is composed of passionate developers, artists, and designers.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Feel free to ask us anything, we’re here to help and share.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach us: [contact@fifthcirclestudios.com][outlook]
